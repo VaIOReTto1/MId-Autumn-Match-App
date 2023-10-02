@@ -37,9 +37,6 @@ import kotlin.math.abs
 private val backgroundColor = Color(0xFFF2F5F9)
 private val selectedContentColor = Color(0xFF333333)
 private val unselectedContentColor = Color(0xFF999999)
-private val indicatorColor = Color(0xFFFFD700)
-private const val indicatorPercent = 0.6f
-private val indicatorHeight = 5.dp
 
 //主页面
 @OptIn(
